@@ -1,0 +1,7 @@
+(a) A string vector with the members of pals.
+(b) A int vector with size 10, and init value 0.
+(c) A int vector with size 10, and init value 10.
+(d) A string vector copying from svec1.
+(e) A not-init-ed double vector.
+
+
