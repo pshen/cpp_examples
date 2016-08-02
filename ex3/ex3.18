@@ -1,0 +1,6 @@
+(a) OK.
+(b) Ok.
+(c) NOK. cpi is a constant pointer. 
+(d) OK.
+(e) NOK. cpic is constant.
+(f) NOK> ic is constant.
