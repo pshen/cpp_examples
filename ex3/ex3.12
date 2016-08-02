@@ -1,0 +1,12 @@
+(a) wrong, string to char
+(b) wrong, ival is int, not pointer
+(c) wrong, pc is pointer of string
+(d) Ok.
+(e) Ok.
+(f) OK.
+(g) OK.
+(h) wrong. string can't be converted to *char
+(i) wrong. pc is pointer of string.
+(j) wrong, pointer to string.
+(k) Ok.
+(l) OK.
